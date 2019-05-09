@@ -1,3 +1,5 @@
+package encapsulamento.exemplo;
+
 import java.util.Scanner;
 
 public class Exemplo {
