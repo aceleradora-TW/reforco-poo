@@ -1,9 +1,11 @@
- ### Regras
+# Reforço POO - Aceleradora
+
+### Regras
 
 - Os desafios devem ser feitos em ordem.
 - A solução de um exercício não deve comprometer o outro. Ou seja, ao final tudo deve estar funcionando.
  
- ### Desafios
+### Desafios
 
  Tente solucionar os desafios abaixo de forma procedural e, também, orientada a objetos. Você vai perceber que uma das abordagens é mais fácil.
 
@@ -15,3 +17,19 @@
  - [ ] Quando perguntadas sobre seu humor, pessoas aposentadas respondem "Tudo tranquilo, jovem.", pessoas empregadas dizem "Preciso de férias!!" e as demais falam "Tô levando...". Perguntar sobre o humor de todas as pessoas criadas anteriormente.
 
 **Bônus:** para cada um dos desafios acima, elencar quais princípios de POO (encapsulamento, abstração, herança e polimorfismo) podem ajudar a solucionar.
+
+### Lembretes
+
+Para a resolução dos exercícios, é necessário instalar o [Java Development Kit (JDK)](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
+
+Para compilar um arquivo `.java`, você pode usar o seguinte comando:
+
+```bash
+javac NomeDoArquivo.java
+```
+
+Para executá-lo:
+
+```bash
+java NomeDoArquivo
+```
