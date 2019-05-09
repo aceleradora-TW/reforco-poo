@@ -1,5 +1,3 @@
-package encapsulamento.contraxemplo;
-
 import java.util.Scanner;
 
 public class ContraExemplo {
